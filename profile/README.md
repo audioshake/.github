@@ -10,6 +10,9 @@ Our technology turns mixed audio into usable components and structured data for 
 
 Separate multi-speaker recordings into individual speaker tracks, including overlapping speech, with diarization and confidence scores.
 
+- [Multi-Speaker 2.0 Technical Evaluation](https://www.audioshake.ai/post/multi-speaker-2-0-technical-evaluation)
+- [Multi-Speaker Samples on Hugging Face](https://huggingface.co/spaces/audioshake/multispeaker2)
+- [Multi-Speaker API documentation](https://developer.audioshake.ai/multi-speaker-separation)
 
 ### Speech Recovery
 
